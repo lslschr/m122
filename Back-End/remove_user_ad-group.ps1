@@ -1,0 +1,1 @@
+Remove-ADGroupMember -Identity $group -Members $user

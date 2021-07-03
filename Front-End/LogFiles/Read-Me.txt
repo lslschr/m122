@@ -1,0 +1,15 @@
+----------------------
+AD automation
+----------------------
+
+Made by: Luis Lüscher
+
+How it works?
+
+Simply select a tool you want to use and click on the button. 
+You can create Users, Groups and shared folders.
+You can also delete User and add users to a group.
+----------------------
+Are logs visible?
+----------------------	
+Yes there are logs visible. Just look under the directory Logsfiles.		
